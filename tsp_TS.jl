@@ -2,7 +2,7 @@
 # X. Gandibleux - Metaheuristiques : TSP TS (version etudiant) - Septembre 2018
 
 @static if VERSION < v"1.0-"
-    error("NOT COMPLIANT WITH JULIA > v1.0.0")
+    error("NOT COMPLIANT WITH JULIA < v1.0.0")
 end
 
 using Random
