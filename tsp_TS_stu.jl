@@ -1,5 +1,6 @@
 # -------------------------------------------------------------------------------------------
-# X. Gandibleux - Metaheuristiques : TSP TS (version etudiant) - Septembre 2018
+# X. Gandibleux - Metaheuristiques : TSP TS (version etudiant) - Septembre 2019
+# Base de depart « etudiant » pour exercice "TS applique au TSP"
 
 @static if VERSION < v"1.0-"
     error("NOT COMPLIANT WITH JULIA < v1.0.0")
