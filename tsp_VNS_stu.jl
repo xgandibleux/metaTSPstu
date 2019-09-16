@@ -43,7 +43,7 @@ end
 function tsp_elaboreSolutionAleatoire(
            n::Int64  # in : nombre de villes
          )
-    # A mettre en place ...
+    return shuffle(collect(1:n))  # out : une permutation aleatoire des villes
 end
 
 # -------------------------------------------------------------------------------------------
