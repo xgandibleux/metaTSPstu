@@ -4,5 +4,5 @@ Implementation in Julia (compliant v1.0.0) of well-known optimization algorithms
 
 Algorithms :
 
-    VNS (skeleton)
-    TS (minimal full implementation)
+- VNS (skeleton)
+- TS (minimal full implementation)
